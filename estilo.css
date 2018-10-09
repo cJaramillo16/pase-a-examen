@@ -1,0 +1,135 @@
+body{
+font-family: 'Lato', helvetica;
+margin:0;
+}
+.main-header{
+padding: 6px;
+color: white;
+background-color: #00B5C9
+}
+/* AQUI EMPIEZA LA COMLUMNA 1*/
+.columna1{
+width: 30%;
+}
+.informacion{
+text-align: center;
+}
+.informacion em{
+font-weight: bold;
+color: #00B5C9;
+
+}
+.botones{
+border-radius: 20px;
+color: white;
+background-color: #00B5C9;
+border-style: none;
+margin: 14px;
+margin-bottom: 30px ;
+}
+.perfil{
+margin-bottom: 10px;
+margin-left: 15px;
+}
+.img-perfil{
+
+	width: 100%;
+	height: 70%;
+}
+
+/* AQUI TERMINA LA COLUMNA 1 Y EMPIEZA LA COLUMNA 2*/
+
+.columna2{
+margin-right:3%;
+margin-left: 3%;
+width: 30%;
+}
+
+.biogra{
+font-size: 13px;
+border: groove;
+width: 100%;
+height: auto;
+padding: 20px;
+margin-bottom: 10px;
+background-color: #CCC;
+box-sizing: border-box;
+}
+
+.fuente{
+/*font-family: Roboto;*/
+color:#00B5C9;
+
+}
+
+.moti{
+width: 70%;
+padding: 5px;
+background-color:#F2F2F2;
+display: flex;
+border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+
+
+}
+
+/* AQUI TERMINA LA COLUMNA 2 Y EMPIEZA LA COLUMNA 3*/
+.columna3{
+	margin-left: 3%;
+	width: 30%;
+}
+
+.historial-academico{
+	width: 100%;
+}
+
+.titulo{
+	color: #00B5C9;
+	margin-top: 30px;
+	margin-left: 26px;
+}
+
+.lista{
+	color: gray;
+	margin-top: -18px;
+	list-style: disc;
+}
+
+.tecnologias{
+	margin-top: 50px;
+}
+
+.progreso{
+	margin-top: 10px;
+}
+
+.tecnologias h5{
+
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+	font-size: 15px;
+}
+.columnas{
+
+	display: flex;
+
+}
+
+
+
+
+
+
+/* AQUI TERMINA LA COLUMNA 3 Y EMPIEZA EL FOOTER*/
+
+.footer{
+bottom: 0;
+text-align: center;
+padding-bottom: 10px;
+padding-top:10px; 
+margin: 0;
+color: white;
+background-color: #00B5C9;
+}
